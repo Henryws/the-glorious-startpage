@@ -8,7 +8,7 @@ class SearchEngineSettings {
 		this._selectSearchEngineApply = document.querySelector('#searchEngineAsDefault');
 		
 		this._placeholderPrefix = '  Search with ';
-		this._searchQueryPrefix = 'http://www.google.com/search?q=';
+		this._searchQueryPrefix = 'https://metager.org/meta/meta.ger3?eingabe=';
 
 		this._searchEngines = config.getSearchEngines();
 
@@ -25,7 +25,7 @@ class SearchEngineSettings {
 
 	_updateDefaultSearchEngine = () => {
 		// Update default search engine and current search engine
-		this._defaultSearchEngine = this._localStorage.getItem('searchEngine') || 'google';
+		this._defaultSearchEngine = this._localStorage.getItem('searchEngine') || 'metager';
 		this._currentSearchEngine = this._defaultSearchEngine;
 	}
 
