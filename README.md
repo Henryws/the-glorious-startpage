@@ -183,7 +183,7 @@ The background image changes based on time.
 
 + Make sure that javascript is enabled!
 
-+ If you're using `NoScript` and `Dark Mode Reader` extensions make sure to disable them on the starpage! NoScript will disable javascript making this startpage useless. While, Dark Mode Reader will change the ligher CSS colors to dark, ruining the design.
++ If you're using `NoScript` and `Dark Mode Reader` extensions make sure to disable them on the startpage! NoScript will disable javascript making this startpage useless. While, Dark Mode Reader will change the ligher CSS colors to dark, ruining the design.
 
 + If you're using firefox and blur effect is not enabled, open `about:config`, accept the risks, find `layout.css.backdrop-filter.enabled`, and set it to true to enable it. Refresh the startpage.
 
