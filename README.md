@@ -2,7 +2,7 @@
 
 [![maintained](https://img.shields.io/maintenance/yes/2020?label=maintained&style=flat-square)](https://github.com/manilarome/the-glorious-startpage/commits/master) [![contributions](https://img.shields.io/badge/contribution-welcome-brightgreen&?style=flat-square)](https://github.com/manilarome/the-glorious-startpage/pulls) [![HitCount](http://hits.dwyl.com/manilarome/the-glorious-startpage.svg)](http://hits.dwyl.com/manilarome/the-glorious-startpage) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d942895baf48442d8c9df54306887aa0)](https://www.codacy.com/manual/manilarome/the-glorious-startpage?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=manilarome/the-glorious-startpage&amp;utm_campaign=Badge_Grade)
 
-## [Live Preview](https://manilarome.github.io/the-glorious-startpage/)
+## [Live Preview](https://henryws.github.io/the-glorious-startpage/)
 
 ## Gallery
 
@@ -59,7 +59,6 @@
 + `a/` + `search query` to search a product in amazon.
 + `e/` + `search query` to search a product in ebay.
 + `y/` + `search query` to search a video in youtube.
-+ `n/` + `comic id` to search a "comic" in a certain "comic" website.
 
 ## Customization and Settings
 
