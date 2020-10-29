@@ -26,9 +26,6 @@ class Config {
 			},
 			'y/': {
 				urlPrefix: 'https://youtube.com/results?search_query='
-			},
-			'n/': {
-				urlPrefix: 'https://nhentai.net/g/'	
 			}
 		};
 
@@ -39,9 +36,9 @@ class Config {
 	getSearchEngines = () => {
 
 		const searchEngines = {
-			'google': {
-				name: 'Google',
-				prefix: 'https://www.google.com/search?q='
+			'metager': {
+				name: 'Metager',
+				prefix: 'https://metager.org/meta/meta.ger3?eingabe='
 			},
 			'duckduckgo': {
 				name: 'Duckduckgo',
